@@ -54,7 +54,7 @@ npm install prompt-sync
 Run the game with:
 
 ```bash
-node slotMachine.js
+node project.js
 
 Enter a deposit amount: 100
 Enter the number of lines that you would like to bet on (1-3): 2
