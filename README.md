@@ -88,10 +88,14 @@ Do you want to play again? (y/n): y
 
 ## 📌 Project Structure
 
+```bash
 📁 JAVASCRIPT-SLOT-MACHINE/
 ├── 📄 slotMachine.js # Main game logic
 ├── 📄 package.json # Project metadata & dependencies
 └── 📄 README.md # Project documentation
+
+```
+
 
 ---
 
